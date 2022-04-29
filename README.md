@@ -143,3 +143,5 @@ https://github.com/spmallick/learnopencv/tree/master/FunnyMirrors
 基于OpenCV的图像分割
 https://github.com/kiteco/kite-python-blog-post-code/tree/master/image-segmentation
 
+# <a href="https://icode.best/i/65237938435971">Python视觉实战项目31讲源码地址-爱代码爱编程</a>
+
