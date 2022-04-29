@@ -8,3 +8,67 @@
 # <a href="https://github.com/ErLinErYi/PlantsVsZombies">植物大战僵尸源码GitHub</a>
 # <a href="https://github.com/CasterWx/free-programming-books">免费的计算机书籍资源c,c++,java,game</a>
 # <a href="https://github.com/fengzhenHIT/OpenCV_Projects">OpenCV实现计算机视觉项目</a>
+# 10个opencv 小项目
+1. Drowsiness Detector 睡意检测
+
+https://github.com/misbah4064/drowsinessDetector
+
+
+
+2. Object Tracking 目标跟踪
+
+https://github.com/misbah4064/object_tracking
+
+
+
+3. Lane Detection 车道线检测
+
+https://github.com/misbah4064/lane_detection
+
+
+
+4. Face Landmark Detection 人脸特征点检测
+
+https://github.com/misbah4064/faceLandmarks
+
+模型文件：
+
+https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2
+
+
+
+5. Hand Pose Detection 手部姿态检测
+
+https://github.com/misbah4064/hand_pose_detection
+
+
+
+6. Yolo Object Detection and Tracking  CPU端YOLO目标检测与跟踪
+
+https://github.com/misbah4064/yolo_objectDetection_imagesCPU
+
+
+
+7. License Plate Detection and Recognition 车牌检测与识别
+
+https://github.com/misbah4064/licensePlateReader
+
+
+
+8. Text Detection and Recognition 文本检测与识别
+
+https://github.com/misbah4064/textDetection-Recognition
+
+
+
+9. Background Removal and replace with video 视频背景去除与替换
+
+https://github.com/misbah4064/backgroundRemoval
+
+
+
+10. Car Detection 车辆检测
+
+https://github.com/misbah4064/car_detector_haarcascades
+
+
