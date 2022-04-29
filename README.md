@@ -7,3 +7,4 @@
 # <a href="https://blog.csdn.net/weixin_43956456/article/details/104838098">个人中意的Github C/C++及Android App相关开源项目(★精品收藏★)</a>
 # <a href="https://github.com/ErLinErYi/PlantsVsZombies">植物大战僵尸源码GitHub</a>
 # <a href="https://github.com/CasterWx/free-programming-books">免费的计算机书籍资源c,c++,java,game</a>
+# <a href="https://github.com/fengzhenHIT/OpenCV_Projects">OpenCV实现计算机视觉项目</a>
