@@ -199,3 +199,5 @@ MedicalNet
 https://github.com/Tencent/MedicalNet
 
 将迁移学习与NLP联系起来。当我看到这个精彩的MedicalNet项目时，我感到很激动。
+
+# <a href="https://github.com/Kensuke-Hinata/statistic/tree/master/AI/books">AI/books/用Python动手学机器学习.</a>
